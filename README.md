@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kauanLvalerio
 - 👀 I’m interested in fiding a job
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kauanlemesvalerio@gmail.com
 
 <!---
